@@ -24,6 +24,13 @@ This repository contains a file used to calculate different indicators that can 
 ### Repository Contains:
 - technical_indicators.py : This contains the main logic for calculation of the indicators.
 
+## Package installation
+You can use this repository as a package: 
+```pip install git+https://github.com/ssrug/Python-Charting-Indicators.git```
+
+Import it in your project:
+```import technical_indicators as TI```
+
 ## Usage
 The way that the data should be put threw in the case of requiring multiple elementes of the candle sticks, you'll need to style the lists to a dictionary formal like shown below:
 
