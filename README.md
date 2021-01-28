@@ -32,7 +32,7 @@ pip install git+https://github.com/ssrug/Python-Charting-Indicators.git
 
 Import it in your project:
 ```
-import technical_indicators as TI
+from charting_indicators import technical_indicators as TI
 ```
 
 ## Usage
