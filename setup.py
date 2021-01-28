@@ -5,7 +5,7 @@ setup(name='Python-Charting-Indicators',
       description='python package to access the binance api',
       author='EasyAI, ssrug',
       url='https://github.com/ssrug/binance_api',
-      packages=['technical_indicators'],
+      packages=['charting_indicators'],
       install_requires=[
           'numpy'
         ]
